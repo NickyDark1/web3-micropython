@@ -20,7 +20,7 @@
 ## Testing and Limitations
 This project has been tested on different devices:
 - **ESP32**: Successfully used.
-- - **ESP8266: memory is the main limitation. It cannot process signatures due to low internal RAM.
+- **ESP8266**: memory is the main limitation. It cannot process signatures due to low internal RAM.
 - **Raspberry Pi**: Successfully used, but required modifications to some specific libraries due to differences in the execution environment.
 
 It has also interacted with multiple EVM-compatible blockchain networks, including:
